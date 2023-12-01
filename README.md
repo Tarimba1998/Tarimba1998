@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tarimba1998 from Argentina.
+- 👀 I’m an Economist very interested in how programming can be applied to economics.
+- 🌱 I’m currently learning Python and SQL.
+- 💞️ I’m looking to learn and collaborate in projects where i can mix my knowledge as an economist with Python.
+- 📫 If you need to contact me, send an email to chavesalvaro09@gmail.com.
